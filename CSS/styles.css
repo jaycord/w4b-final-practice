@@ -4,3 +4,20 @@ h1{
 h2{
     font-family: Arial, Helvetica, sans-serif;
 }
+img{
+    height: 90px;
+}
+.nav{
+    display: inline-block;
+}
+.right{
+    float: right;
+    position: relative;
+    top: 25px;
+    right: 10px;
+    text-decoration: none;
+}
+nav{
+    border: solid;
+    box-shadow: 5px 5px gray;
+}
