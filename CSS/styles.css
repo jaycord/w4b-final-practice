@@ -15,9 +15,11 @@ img{
     position: relative;
     top: 25px;
     right: 10px;
-    text-decoration: none;
 }
 nav{
     border: solid;
     box-shadow: 5px 5px gray;
+}
+a{
+    text-decoration: none;
 }
