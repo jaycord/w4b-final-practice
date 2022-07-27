@@ -11,12 +11,13 @@ img{
     right: 10px;
 }
 nav{
-    border: solid;
-    box-shadow: 5px 5px gray;
+    border: solid burlywood;
+    box-shadow: 5px 5px burlywood;
 }
 a{
     text-decoration: none;
     font-family: monospace;
+    color: burlywood;
 }
 .hero{
     background-color: burlywood;
